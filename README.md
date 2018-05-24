@@ -1,2 +1,2 @@
 # DataStructure
-Implementing kinds of data structure in Java.
+Implementing kinds of data structures in Java.
